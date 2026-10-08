@@ -1,0 +1,23 @@
+{
+  "name": "vagas",
+  "version": "1.0.0",
+  "description": "Aula de quarta frontend",
+  "homepage": "https://github.com/aldo94silva/vagas-q#readme",
+  "bugs": {
+    "url": "https://github.com/aldo94silva/vagas-q/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aldo94silva/vagas-q.git"
+  },
+  "license": "MIT",
+  "author": "Aldo Vanio",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
